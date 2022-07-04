@@ -1,3 +1,11 @@
+# PayPal React Tutorial
+
+PayPal と ReactJS の統合の練習を行いました．
+
+1 円でもいいので恵んでくれたら嬉しいです．
+
+[https://donate.t-shinkai00.com/](https://donate.t-shinkai00.com/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
