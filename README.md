@@ -2,7 +2,7 @@
 
 PayPal と ReactJS の統合の練習を行いました．
 
-1 円でもいいので恵んでくれたら嬉しいです．
+1 円でも恵んでくれたら嬉しいです．
 
 [https://donate.t-shinkai00.com/](https://donate.t-shinkai00.com/)
 
